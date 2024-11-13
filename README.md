@@ -1,11 +1,4 @@
 # Admin-by-Next.js
-
-Sure! Here's the full content for the README file, ready to be used in your project:
-
----
-
-# Admin Dashboard Assignment
-
 🌟 Welcome to the Admin Dashboard Assignment! This project is built with Next.js and API integration to provide an admin interface for a social media platform. It includes features for user management, content moderation, and analytics.
 
 ## Project Overview
@@ -184,23 +177,6 @@ The dashboard integrates with the provided API (`NEXT_PUBLIC_API_URL`) to fetch 
 
 ---
 
-## Contribution
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure to follow the project's coding standards and write meaningful commit messages.
-
----
-
 ### Submit the Following:
 
-- **GitHub Repository Link**: Your GitHub repository link where the project is hosted.
-- **Video Walkthrough Link**: A video explaining the project and demonstrating key features.
-
-You can use platforms like **Google Drive** or **Internshala** to upload and share the video.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
+- **GitHub Repository Link**: https://github.com/Rushikasrithamaddula11/Admin-by-Next.js
